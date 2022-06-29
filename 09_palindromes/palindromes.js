@@ -12,16 +12,3 @@ const palindromes = function (str) {
 
 // Do not edit below this line
 module.exports = palindromes;
-
-/* function myFunction() {
-  let text;
-  let person = prompt("enter string");
-  if (person == null || person == "") {
-    return true;
-  } else {
-    return palindromes(person);
-  }
-}
-
-console.log(myFunction);
- */
